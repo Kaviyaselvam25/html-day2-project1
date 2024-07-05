@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(192, 169, 194);
+}
+h1{
+    color: rgb(34, 25, 61);
+    background-color: rgb(145, 66, 165);
+    text-align: center;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin: bottom 20px;
+        
+}
+h2{
+    text-align: center;
+    margin: bottom 20px;
+    text-color: rgb(182, 113, 182);
+    color:rgb(83, 8, 43);
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-right:60px;
+    margin-left:60px;
+    border-radius:200px ;
+    border: 2px solid rgb(43, 10, 119);
+    
+}
